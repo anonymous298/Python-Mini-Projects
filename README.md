@@ -1,0 +1,1 @@
+## This is a repo consist of so many python mini projects not beginers ones but cool ones
